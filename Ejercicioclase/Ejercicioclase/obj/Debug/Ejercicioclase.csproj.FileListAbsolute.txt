@@ -1,0 +1,10 @@
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\bin\Debug\Ejercicioclase.exe.config
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\bin\Debug\Ejercicioclase.exe
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\bin\Debug\Ejercicioclase.pdb
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\obj\Debug\Ejercicioclase.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\obj\Debug\Ejercicioclase.Form1.resources
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\obj\Debug\Ejercicioclase.Properties.Resources.resources
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\obj\Debug\Ejercicioclase.csproj.GenerateResource.cache
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\obj\Debug\Ejercicioclase.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\obj\Debug\Ejercicioclase.exe
+C:\Users\Josue\source\repos\Progra-I-AI-2023\Ejercicioclase\Ejercicioclase\obj\Debug\Ejercicioclase.pdb
